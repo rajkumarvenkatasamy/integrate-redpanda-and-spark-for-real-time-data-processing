@@ -16,6 +16,10 @@ from pyspark.sql.types import (
 # Create a SparkSession
 spark = SparkSession.builder.appName("StreamingApp").getOrCreate()
 
+# Larger batch sizes can improve memory utilization and compression but may risk
+# out-of-memory errors (OOMs) when caching data. So, Adjust the value as needed
+spark.conf.set("spark.sql.inMemoryColumnarStorage.batchSize", 20000)
+
 # Define the schema for the input data
 schema = StructType(
     [

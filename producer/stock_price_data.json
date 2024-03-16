@@ -1,52 +1,13 @@
 [
-  {
-    "Date": "2023-02-01",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4500.12
-  },
-  {
-    "Date": "2023-02-02",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4523.78
-  },
-  {
-    "Date": "2023-02-03",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4556.90
-  },
-  {
-    "Date": "2023-02-04",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4578.21
-  },
-  {
-    "Date": "2023-02-05",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4590.67
-  },
-  {
-    "Date": "2023-02-06",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4602.34
-  },
-  {
-    "Date": "2023-02-07",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4589.99
-  },
-  {
-    "Date": "2023-02-08",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4576.45
-  },
-  {
-    "Date": "2023-02-09",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4598.76
-  },
-  {
-    "Date": "2023-02-10",
-    "Ticker": "SPX",
-    "ClosingPriceUSD": 4611.23
-  }
+  {"Date":"2023-02-01","Ticker":"SPX","ClosingPriceUSD":4500.12},
+  {"Date":"2023-02-02","Ticker":"SPX","ClosingPriceUSD":4523.78},
+  {"Date":"2023-02-03","Ticker":"SPX","ClosingPriceUSD":4556.9},
+  {"Date":"2023-02-04","Ticker":"SPX","ClosingPriceUSD":4578.21},
+  {"Date":"2023-02-05","Ticker":"SPX","ClosingPriceUSD":4590.67},
+  {"Date":"2023-02-06","Ticker":"SPX","ClosingPriceUSD":4602.34},
+  {"Date":"2023-02-07","Ticker":"SPX","ClosingPriceUSD":4589.99},
+  {"Date":"2023-02-08","Ticker":"SPX","ClosingPriceUSD":4576.45},
+  {"Date":"2023-02-09","Ticker":"SPX","ClosingPriceUSD":4598.76},
+  {"Date":"2023-02-10","Ticker":"SPX","ClosingPriceUSD":4611.23}
 ]
+ 
